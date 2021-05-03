@@ -1,6 +1,7 @@
 ### Hi there 👋
   I am zhengfan2014! I am a 20 year old student living in china
 ### My skills
+[![](https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
